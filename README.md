@@ -23,4 +23,3 @@ This repository includes the simulation codes of the following journal paper.
 - Folder **power control**:
   - 2D-GNN for learning power control in interference channel (Section IV.A)
   - Results in Section  VI Remark 6
-  - 
