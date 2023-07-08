@@ -1,4 +1,4 @@
-# MultiDimensional GNNs for Communications
+# MultiDimensional GNNs for Wireless Communications
 
 ## Introduction
 
