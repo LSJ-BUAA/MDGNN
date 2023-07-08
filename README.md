@@ -15,11 +15,11 @@ This repository includes the simulation codes of the following journal paper.
     - 2D- and 1D-GNN in Section V.B
     - A2D-GNN in Section III.B.2 Remark 1
   - Generating narrow-band mmWave channel dataset (Section V.A)
-  - Results in Section  VI.A
+  - Results are shown in Section  VI.A
 - Folder **wideband hybrid precoding**:
   - 4D-, 3D-, and 2D-GNN for learning wideband hybrid precoding in MU-MISO-OFDM systems  (Section III.B.3)
   - Generating wideband mmWave OFDM channel dataset (Section V.A)
-  - Results in Section  VI.B
+  - Results are shown in Section  VI.B
 - Folder **power control**:
   - 2D-GNN for learning power control in interference channel (Section IV.A)
-  - Results in Section  VI Remark 6
+  - Results are shown in Section  VI Remark 6
