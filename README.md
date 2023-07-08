@@ -1,4 +1,4 @@
-# MD-GNNs for Communications
+# MultiDimensional GNNs for Communications
 
 ## Introduction
 
