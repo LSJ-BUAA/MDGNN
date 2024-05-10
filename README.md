@@ -5,7 +5,7 @@
 This repository includes the simulation codes of the following journal paper.
 
 > Shengjie Liu,  Jia Guo, and Chenyang Yang, "Multidimensional Graph Neural Networks for
-> Wireless Communications," *IEEE Transactions on Wireless Communications*, 2023.
+> Wireless Communications," *IEEE Transactions on Wireless Communications*, vol. 23, no. 4, pp. 3057-3073, April 2024.
 
 ## Specific Information
 
